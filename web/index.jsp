@@ -27,6 +27,7 @@
       Password:<input type="password" name="userpass"/><br/><br/>
       <input type="submit" value="login"/>
   </form>
+  <a href="http://localhost:8080/ebanking?generateSampleUsers=true">Generate new data for bi16-java DB.</a>
 
   </body>
 </html>
