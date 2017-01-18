@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/">
+
+    <Resource name="connpool" auth="Container" type="javax.sql.DataSource"
+              username="DAO_WRITER" password="H4W#T5Equ+at" driverClassName="com.mysql.jdbc.Driver"
+              url="jdbc:mysql://address=(protocol=tcp)(host=127.0.0.1)(port=3306)(useJDBCCompliantTimezoneShift=true)(useLegacyDatetimeCode=false)(serverTimezone=UTC)/bi16-java-web"/>
+    </Context>
